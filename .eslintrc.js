@@ -33,6 +33,9 @@ module.exports = {
             "always"
         ],
         "no-console": 0
+    },
+    globals: {
+      '__dirname': true
     }
 };
 
