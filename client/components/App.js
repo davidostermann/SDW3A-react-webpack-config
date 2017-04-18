@@ -6,6 +6,6 @@ export default class App extends React.Component {
   }
 
   render() {
-    return (<div>MyComponent</div>);
+    return (<div>MyComddsdponent</div>);
   }
 };
